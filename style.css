@@ -89,7 +89,7 @@ p {
   background-color: var(--branco);
   font-family: var(--fonte0);
   line-height: 1.5em;
-  min-width: 25em;
+  min-width: 21.4375em;
   max-width: calc(50em + 2em);
   margin: auto;
   padding: 1em;
